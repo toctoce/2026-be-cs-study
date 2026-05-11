@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b839d0-522c-40fc-97ce-84925e3768df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/HTTP_&amp;_HTTPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/network/HTTP_&amp;_HTTPS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/HTTP_&amp;_HTTPS_1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,19 +64,6 @@
       <recent name="$PROJECT_DIR$/network" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="2026-be-cs-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="2026-be-cs-study" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="02b839d0-522c-40fc-97ce-84925e3768df" name="Changes" comment="" />
@@ -86,7 +75,10 @@
       <workItem from="1778199760339" duration="2674000" />
       <workItem from="1778250504619" duration="1319000" />
       <workItem from="1778314576453" duration="3834000" />
-      <workItem from="1778318435519" duration="1676000" />
+      <workItem from="1778318435519" duration="1877000" />
+      <workItem from="1778394160566" duration="1217000" />
+      <workItem from="1778396944382" duration="42000" />
+      <workItem from="1778460205267" duration="49000" />
     </task>
     <servers />
   </component>

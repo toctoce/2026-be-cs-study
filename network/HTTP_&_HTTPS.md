@@ -57,7 +57,7 @@ HTTP(Stateless) 입장
 
 ### HTTP 요청 구성 요소
 
-![HTTP_&_HTTPS_1.png](HTTP_%26_HTTPS_1.png)
+![HTTP_&_HTTPS_1.png](HTTP_&_HTTPS.png)
 
 #### Method
 
