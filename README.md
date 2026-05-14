@@ -66,7 +66,7 @@
 ## 📌 네트워크
 
 - [OSI 7 계층](network/OSI_7_계층.md)
-- TCP 3 way handshake & 4 way handshake
+- [TCP 3 way handshake & 4 way handshake](network/TCP_3_way_handshake_%26_4_way_handshake.md)
 - TCP/IP 흐름제어 & 혼잡제어
 - TCPvsUDP
 - 대칭키 & 공개키
