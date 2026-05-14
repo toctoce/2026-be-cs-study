@@ -48,16 +48,14 @@
 
 - 벌점 4점이 되면 두바이 아이스박스 사기
 
-
 # 👨‍💻 스터디원
 
-| 이름 | GitHub |
-| --- | --- |
-| 봉구스 | [@toctoce](https://github.com/toctoce) |
-| 라이 | [@dhyepark](https://github.com/dhyepark) |
-| 티모 | [@yoonhojoon](https://github.com/yoonhojoon) |
-| 서여 | [@yeo-li](https://github.com/yeo-li) |
-
+| 이름  | GitHub                                       |
+|-----|----------------------------------------------|
+| 봉구스 | [@toctoce](https://github.com/toctoce)       |
+| 라이  | [@dhyepark](https://github.com/dhyepark)     |
+| 티모  | [@yoonhojoon](https://github.com/yoonhojoon) |
+| 서여  | [@yeo-li](https://github.com/yeo-li)         |
 
 # 학습 주제
 
@@ -71,7 +69,11 @@
 - TCPvsUDP
 - 대칭키 & 공개키
 - [HTTP_&_HTTPS](network/HTTP_%26_HTTPS.md)
-- 로드 밸런싱(Load Balancing)
+- [로드 밸런싱(Load Balancing)](network/로드_밸런싱(Load_Balancing).md)
+  - [로드 밸런싱의 이점](network/로드_밸런싱의_이점.md)
+  - [로드 밸런싱의 유형](network/로드_밸런싱의_유형.md)
+  - [L4 로드 밸런싱](network/L4_로드_밸런싱.md)
+  - [L7 로드 밸런싱](network/L7_로드_밸런싱.md)
 - [Blocking & Non-Blocking I/O](network/Blocking_&_Non-Blocking_IO.md)
 
 ## 📌 운영체제
