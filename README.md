@@ -70,9 +70,9 @@
 - TCP/IP 흐름제어 & 혼잡제어
 - TCPvsUDP
 - 대칭키 & 공개키
-- HTTP & HTTPS
+- [HTTP_&_HTTPS](network/HTTP_%26_HTTPS.md)
 - 로드 밸런싱(Load Balancing)
-- Blocking & Non-Blocking I/O
+- [Blocking & Non-Blocking I/O](network/Blocking_&_Non-Blocking_IO.md)
 
 ## 📌 운영체제
 
